@@ -2,10 +2,8 @@
 
 ## About✨
 
--Front end developer
+Front-end developer with a passion for technology and experience in working in teams. I decided to fully dedicate myself to my career after interrupting medical school in Paraguay. I have excellent time management skills and the ability to learn quickly, as well as being collaborative and committed to achieving team goals. I constantly seek to improve my technical skills and to be updated with market trends.
 
-
--Currently working at WeHandle
 
 <br/>
 
