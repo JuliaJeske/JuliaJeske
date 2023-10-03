@@ -1,4 +1,4 @@
-###  Hi, I'm Julia Jeske <img src="https://media.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif" width="60" height="60" />
+###  Hi, I'm Julia Jeske <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" />
 
 ## About✨
 
